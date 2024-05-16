@@ -1,0 +1,133 @@
+* Indicadores de Preço do Bitcoin
+
+* Williams %R
+- **O que é?**: Mede níveis de sobrecompra e sobrevenda.
+- **Interpretação**: Abaixo de -80 (sobrevendido), acima de -20 (sobrecomprado).
+
+* Rate of Change (ROC)
+- **O que é?**: Mede a velocidade das mudanças de preço.
+- **Interpretação**: Mudanças rápidas sugerem forte momentum.
+
+* Relative Strength Index (RSI)
+- **O que é?**: Indica força do preço recente.
+- **Interpretação**: Acima de 70 (sobrecomprado), abaixo de 30 (sobrevendido).
+
+* Moving Average Convergence Divergence (MACD)
+- **O que é?**: Indica mudanças na força e direção da tendência.
+- **Interpretação**: Linhas cruzando sinalizam compra ou venda.
+
+* Bollinger Bands
+- **O que é?**: Mede a volatilidade do mercado.
+- **Interpretação**: Toques nas bandas superiores/inferiores indicam sobrecompra/sobrevenda.
+
+* Ichimoku Cloud
+- **O que é?**: Fornece suporte e resistência.
+- **Interpretação**: Preços acima da nuvem indicam alta, abaixo indicam baixa.
+
+* Exponential Moving Average (EMA)
+- **O que é?**: Média móvel que prioriza preços recentes.
+- **Interpretação**: Crescimento indica tendência de alta.
+
+* Average Directional Index (ADX)
+- **O que é?**: Mede a força de uma tendência.
+- **Interpretação**: ADX alto indica tendência forte.
+
+* Donchian Channel
+- **O que é?**: Mostra a faixa de preço máxima e mínima.
+- **Interpretação**: Rompimentos indicam novas tendências.
+
+* Arnaud Legoux Moving Average (ALMA)
+- **O que é?**: Suaviza os dados de preço.
+- **Interpretação**: Menos atraso na tendência.
+
+* True Strength Index (TSI)
+- **O que é?**: Suaviza variações de preço.
+- **Interpretação**: Valores altos indicam momentum positivo.
+
+* Z-Score
+- **O que é?**: Mede a posição do preço em relação à média.
+- **Interpretação**: Valores extremos indicam afastamento da média histórica.
+
+* Log Return
+- **O que é?**: Mede a taxa de retorno dos preços.
+- **Interpretação**: Útil para analisar retornos específicos.
+
+* Vortex Indicator
+- **O que é?**: Identifica a direção das tendências.
+- **Interpretação**: Cruzamentos indicam mudanças de tendência.
+
+* Aroon Indicator
+- **O que é?**: Mede força e possíveis reversões.
+- **Interpretação**: Valores altos de Aroon Up indicam alta.
+
+* Elder’s Bull Power e Bear Power
+- **O que é?**: Mede a força dos compradores e vendedores.
+- **Interpretação**: Bull Power positivo indica controle dos compradores.
+
+* Acceleration Bands
+- **O que é?**: Mostra a faixa de preços em movimento.
+- **Interpretação**: Identifica rompimentos e reversões.
+
+* Short Run
+- **O que é?**: Mede a diferença entre preço atual e mínima recente.
+- **Interpretação**: Indica força de curto prazo.
+
+* Bias
+- **O que é?**: Diferença percentual entre preço atual e média móvel.
+- **Interpretação**: Valores positivos indicam alta.
+
+* TTM Trend
+- **O que é?**: Usa médias móveis para identificar tendências.
+- **Interpretação**: Valores positivos indicam alta.
+
+* Percent Return
+- **O que é?**: Mede a variação percentual do preço.
+- **Interpretação**: Mostra desempenho do preço.
+
+* Kurtosis
+- **O que é?**: Mede a distribuição dos preços.
+- **Interpretação**: Valores altos indicam movimentos extremos.
+
+* Elder’s Force Index (ERI)
+- **O que é?**: Combina preço e volume para medir força.
+- **Interpretação**: Altos valores indicam força dos compradores.
+
+* Average True Range (ATR)
+- **O que é?**: Mede a volatilidade.
+- **Interpretação**: Valores altos indicam alta volatilidade.
+
+* Keltner Channels
+- **O que é?**: Mede volatilidade semelhante às Bollinger Bands.
+- **Interpretação**: Preços fora das bandas indicam volatilidade.
+
+* Chaikin Volatility
+- **O que é?**: Mede volatilidade com base no intervalo de preço.
+- **Interpretação**: Altos valores indicam maior volatilidade.
+
+* Standard Deviation (Stdev)
+- **O que é?**: Mede dispersão dos preços.
+- **Interpretação**: Alta dispersão indica alta volatilidade.
+
+* Volatility Index (VIX)
+- **O que é?**: Mede volatilidade esperada.
+- **Interpretação**: Altos valores indicam volatilidade futura.
+
+* On-Balance Volume (OBV)
+- **O que é?**: Mede fluxo de volume.
+- **Interpretação**: Tendências de OBV confirmam direção do preço.
+
+* Chaikin Money Flow (CMF)
+- **O que é?**: Mede fluxo de dinheiro no mercado.
+- **Interpretação**: Valores altos indicam compra.
+
+* Volume Price Trend (VPT)
+- **O que é?**: Combina preço e volume.
+- **Interpretação**: Ajuda a confirmar tendências de preço.
+
+* Accumulation/Distribution Line (ADL)
+- **O que é?**: Mede pressão de compra e venda.
+- **Interpretação**: Subida indica acumulação.
+
+* Ease of Movement (EOM)
+- **O que é?**: Mede facilidade de movimento do preço.
+- **Interpretação**: Valores altos indicam facilidade de alta.
